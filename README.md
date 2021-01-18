@@ -1,5 +1,3 @@
-# project_notebook
-
 # Description
 Jupyter Notebook을 이용한 Data 분석 Project를 업로드하는 Repository입니다. 
 
